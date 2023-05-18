@@ -57,6 +57,7 @@ a .copyOBC {
 
 #navItem {
   margin-left: 40px;
+  text-shadow: 3px 3px 3px black;
 }
 #navItem:hover {
   color: #b9b9b9;
