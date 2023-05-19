@@ -217,7 +217,8 @@ a .copyOBC {
 
 #overViewPosition {
   width: 70vw;
-  margin: 0% 18%;
+  margin-right: 18%;
+  margin-left: 14%;
   padding-top: 15%;
   text-shadow: 3px 3px 3px black;
 }
